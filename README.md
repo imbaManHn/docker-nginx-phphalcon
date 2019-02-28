@@ -1,6 +1,6 @@
 # Nginx PHP MySQL [![Build Status](https://travis-ci.org/mahmoud-eskandari/docker-nginx-phphalcon.svg?branch=master)](https://travis-ci.org/mahmoud-eskandari/docker-nginx-phphalcon) [![GitHub version](https://badge.fury.io/gh/mahmoud-eskandari%2Fdocker-nginx-phphalcon.svg)](https://badge.fury.io/gh/mahmoud-eskandari%2Fdocker-nginx-phphalcon)
 
-Docker running Nginx, PHP-FPM,Phalcon, Composer, MySQL and PHPMyAdmin.
+Docker running Nginx, PHP-Phalcon,Phalcon, Composer, MySQL and PHPMyAdmin.
 
 ## Overview
 
@@ -70,7 +70,7 @@ sudo apt install build-essential
 
 * [Nginx](https://hub.docker.com/_/nginx/)
 * [MySQL](https://hub.docker.com/_/mysql/)
-* [PHP-FPM](https://hub.docker.com/r/mahmoudetc/phalcon/)
+* [PHP-PHALCON](https://hub.docker.com/r/mahmoudetc/phalcon/)
 * [Composer](https://hub.docker.com/_/composer/)
 * [PHPMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
 * [Generate Certificate](https://hub.docker.com/r/jacoelho/generate-certificate/)
