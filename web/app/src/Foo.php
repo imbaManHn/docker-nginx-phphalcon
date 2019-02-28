@@ -6,6 +6,6 @@ class Foo
 {
     public function getName()
     {
-        return 'Nginx PHP MySQL';
+        return 'Nginx Phalcon MySQL';
     }
 }

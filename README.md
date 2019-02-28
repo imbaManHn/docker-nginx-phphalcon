@@ -1,6 +1,6 @@
-# Nginx PHP MySQL [![Build Status](https://travis-ci.org/nanoninja/docker-nginx-php-mysql.svg?branch=master)](https://travis-ci.org/nanoninja/docker-nginx-php-mysql) [![GitHub version](https://badge.fury.io/gh/nanoninja%2Fdocker-nginx-php-mysql.svg)](https://badge.fury.io/gh/nanoninja%2Fdocker-nginx-php-mysql)
+# Nginx PHP MySQL [![Build Status](https://travis-ci.org/mahmoud-eskandari/docker-nginx-phphalcon.svg?branch=master)](https://travis-ci.org/mahmoud-eskandari/docker-nginx-phphalcon) [![GitHub version](https://badge.fury.io/gh/mahmoud-eskandari%2Fdocker-nginx-phphalcon.svg)](https://badge.fury.io/gh/mahmoud-eskandari%2Fdocker-nginx-phphalcon)
 
-Docker running Nginx, PHP-FPM, Composer, MySQL and PHPMyAdmin.
+Docker running Nginx, PHP-FPM,Phalcon, Composer, MySQL and PHPMyAdmin.
 
 ## Overview
 
@@ -70,7 +70,7 @@ sudo apt install build-essential
 
 * [Nginx](https://hub.docker.com/_/nginx/)
 * [MySQL](https://hub.docker.com/_/mysql/)
-* [PHP-FPM](https://hub.docker.com/r/nanoninja/php-fpm/)
+* [PHP-FPM](https://hub.docker.com/r/mahmoudetc/phalcon/)
 * [Composer](https://hub.docker.com/_/composer/)
 * [PHPMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/)
 * [Generate Certificate](https://hub.docker.com/r/jacoelho/generate-certificate/)
@@ -93,7 +93,7 @@ ___
 To install [Git](http://git-scm.com/book/en/v2/Getting-Started-Installing-Git), download it and install following the instructions :
 
 ```sh
-git clone https://github.com/nanoninja/docker-nginx-php-mysql.git
+git clone https://github.com/mahmoud-eskandari/docker-nginx-phphalcon.git
 ```
 
 Go to the project directory :

@@ -11,5 +11,6 @@ $foo = new App\Acme\Foo();
     </head>
     <body>
         <h1>Docker <?php echo $foo->getName(); ?></h1>
+        <h2>Phalcon Ver <?php echo Phalcon\Version::get(); ?></h2>
     </body>
 </html>
