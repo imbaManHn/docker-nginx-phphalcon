@@ -20,7 +20,7 @@ help:
 	@echo "  logs                Follow log output"
 	@echo "  mysql-dump          Create backup of all databases"
 	@echo "  mysql-restore       Restore backup of all databases"
-	@echo "  phpmd               Analyse the API with PHP Mess Detector"
+#	@echo "  phpmd               Analyse the API with PHP Mess Detector"
 	@echo "  test                Test application"
 
 init:
